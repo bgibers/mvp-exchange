@@ -1,4 +1,5 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 Completed challenge by yours truley 
 
-## 🚩 Challenge 3: Minimum Viable Exchange moved to [challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) repo
+## 🚩 Challenge 3: Minimum Viable Exchange 
+Create a simple exchange that can handle buying and selling of tokens 
 
